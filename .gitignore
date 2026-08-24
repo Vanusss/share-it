@@ -1,0 +1,18 @@
+# Build
+target/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / local configuration
+.env
+application-local.yml
+application-local.yaml
